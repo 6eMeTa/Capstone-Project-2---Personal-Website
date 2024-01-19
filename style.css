@@ -1,0 +1,59 @@
+#Resume {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+}
+
+.h3-centered {
+    display: flex;
+    justify-content: center;
+}
+
+#facebook {
+    color: blue;
+}
+
+.p-centered {
+    display: flex;
+    justify-content: center;
+}
+
+#top-bg-image {
+    background-image: url('./assets/images/top-background.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 0%!important;
+    background-color: #EEF5FF;
+}
+
+.introduction-paragraph {
+    font-weight: 500;
+    color: #176B87;
+    font-size: large;
+}
+
+h1 {
+    color: #176B87;
+}
+
+h3 {
+    color: #176B87;
+}
+
+footer {
+    background-color: #EEF5FF;
+}
+
+.btn-primary {
+    --bs-btn-bg: #176B87;
+    --bs-btn-border-color: #176B87;
+    color: white;
+}
+
+.text-bg-primary {
+    color: #fff!important;
+    background-color: #176B87!important;
+}
